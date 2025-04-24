@@ -59,5 +59,3 @@ This project uses the open [Free Dictionary API](https://dictionaryapi.dev/) —
 Feel free to fork the repo, suggest new features, or add more educational enhancements!
 
 ---
-
-Let me know if you’d like a fun banner at the top or want to auto-generate a word daily using a task scheduler (like cron or Windows Task Scheduler)!
